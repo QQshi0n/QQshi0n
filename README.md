@@ -198,20 +198,6 @@ Blade             ▌                   1.39%
 
 <br>
 
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QQShion&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="QQShion's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=QQShion&theme=dracula&hide_border=true" alt="QQShion's GitHub streak" />
-</div>
-
-> little green squares, little proof that I was probably debugging something.
-
-<br>
-
 ## 🐈 Cat Supervision
 
 ```text
