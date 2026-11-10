@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Qianna 👋
+# Hey, I'm Qianna Vassaputri 👋
 
 > *somewhere between `git commit`, `debugging`, and making things look pretty.*
 
